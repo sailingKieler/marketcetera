@@ -1,6 +1,7 @@
 package org.marketcetera.modules.async;
 
 import org.marketcetera.util.misc.ClassVersion;
+import org.marketcetera.module.Module;
 import org.marketcetera.module.*;
 
 import java.util.concurrent.BlockingQueue;

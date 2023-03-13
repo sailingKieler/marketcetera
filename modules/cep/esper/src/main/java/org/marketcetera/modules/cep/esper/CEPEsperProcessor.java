@@ -6,6 +6,7 @@ import com.espertech.esper.client.time.TimerControlEvent;
 import org.marketcetera.core.Pair;
 import org.marketcetera.metrics.ThreadedMetric;
 import org.marketcetera.event.TimestampCarrier;
+import org.marketcetera.module.Module;
 import org.marketcetera.module.*;
 import org.marketcetera.modules.cep.system.CEPDataTypes;
 import org.marketcetera.util.log.I18NBoundMessage1P;
